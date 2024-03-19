@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="40.954839">
+    <testcase classname="Validate Functionality of Registration form of DemoQa Application" name="To Vaidate the Multiple Users" time="8.904223">
+        <system-out>
+            <![CDATA[Given User launch the browser and launch web application....................passed
+When User have enter the "vimal" and "kumar"................................passed
+When User have enter "vimal@gmail.com" and "8189855465".....................passed
+And User fill the "Chennai".................................................passed
+Then User gives the required Messages.......................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Validate Functionality of Registration form of DemoQa Application" name="To Vaidate the Multiple Users 2" time="9.246939">
+        <system-out>
+            <![CDATA[Given User launch the browser and launch web application....................passed
+When User have enter the "ramesh" and "kumar"...............................passed
+When User have enter "ramesh@gmail.com" and "9489052227"....................passed
+And User fill the "Kumbakonam"..............................................passed
+Then User gives the required Messages.......................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Validate Functionality of Registration form of DemoQa Application" name="To Vaidate the Multiple Users 3" time="22.803677">
+        <system-out>
+            <![CDATA[Given User launch the browser and launch web application....................passed
+When User have enter the "dinesh" and "kumar"...............................passed
+When User have enter "dinesh@gmail.com" and "9876543213"....................passed
+And User fill the "Trichy"..................................................passed
+Then User gives the required Messages.......................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
