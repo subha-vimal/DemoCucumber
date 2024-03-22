@@ -14,6 +14,6 @@ public class Hooks extends BaseClass {
 
 	@After
 	public void browserTearDown() {
-		//quitBrowser();
+		quitBrowser();
 	}
 }
