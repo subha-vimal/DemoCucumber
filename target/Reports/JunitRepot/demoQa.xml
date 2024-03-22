@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="13.90903">
-    <testcase classname="Validate Functionality of Registration form of DemoQa Application" name="To Vaidate the Multiple Users" time="5.393111">
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="15.347767">
+    <testcase classname="Validate Functionality of Registration form of DemoQa Application" name="To Vaidate the Multiple Users" time="7.060554">
         <system-out>
             <![CDATA[Given User launch the browser and launch web application....................passed
 When User have enter the "vimal" and "kumar"................................passed
@@ -10,7 +10,7 @@ Then User gives the required Messages.......................................pass
 ]]>
         </system-out>
     </testcase>
-    <testcase classname="Validate Functionality of Registration form of DemoQa Application" name="To Vaidate the Multiple Users 2" time="3.673731">
+    <testcase classname="Validate Functionality of Registration form of DemoQa Application" name="To Vaidate the Multiple Users 2" time="4.300363">
         <system-out>
             <![CDATA[Given User launch the browser and launch web application....................passed
 When User have enter the "ramesh" and "kumar"...............................passed
@@ -20,7 +20,7 @@ Then User gives the required Messages.......................................pass
 ]]>
         </system-out>
     </testcase>
-    <testcase classname="Validate Functionality of Registration form of DemoQa Application" name="To Vaidate the Multiple Users 3" time="4.842188">
+    <testcase classname="Validate Functionality of Registration form of DemoQa Application" name="To Vaidate the Multiple Users 3" time="3.98685">
         <system-out>
             <![CDATA[Given User launch the browser and launch web application....................passed
 When User have enter the "dinesh" and "kumar"...............................passed

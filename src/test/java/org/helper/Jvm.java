@@ -13,7 +13,7 @@ public class Jvm {
 
 	public static void generatedJvmReport(String jsonPath) {
 
-		File f = new File("C:\\Users\\Admin\\eclipse-workspace\\DemoQaCucumber\\target\\Reports\\JvmReport");
+		File f = new File("target/Reports/JvmReport");
 		Configuration configuration = new Configuration(f, "Facebook");
 		configuration.addClassifications("Windows", "10");
 		configuration.addClassifications("jdk", "11");
